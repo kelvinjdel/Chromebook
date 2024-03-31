@@ -1,0 +1,52 @@
+$date
+	Sun Mar 31 13:53:24 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module switch_tb $end
+$var wire 1 ! out1 $end
+$var wire 1 " out0 $end
+$var reg 1 # in0 $end
+$var reg 1 $ in1 $end
+$var reg 1 % sel $end
+$scope module uut $end
+$var wire 1 # in0 $end
+$var wire 1 $ in1 $end
+$var wire 1 % sel $end
+$var wire 1 ! out1 $end
+$var wire 1 " out0 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x%
+x$
+x#
+x"
+x!
+$end
+#20
+0"
+0!
+0%
+0$
+0#
+#40
+1"
+1#
+#60
+1!
+1$
+#80
+1%
+#100
+0!
+0#
+#120
+0"
+0$
